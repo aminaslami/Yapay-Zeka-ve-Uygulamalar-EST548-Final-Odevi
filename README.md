@@ -3,7 +3,7 @@
 
 Dersin adı: 		Yapay Zeka ve Uygulamaları (EST548)
 
-Danışman:		Prof.Dr.Sami EKİCİ
+Danışman:		Prof.Dr. Sami EKİCİ
 
 Veri Seti: https://www.kaggle.com/datasets/paultimothymooney/blood-cells
 
