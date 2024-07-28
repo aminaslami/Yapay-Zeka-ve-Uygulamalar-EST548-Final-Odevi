@@ -11,3 +11,4 @@ Kaynak: https://www.kaggle.com/code/kbrans/vgg16-model-83-36-acc
 
 Amin ASLAMI: https://www.kaggle.com/code/aminaslam/vgg16-modeli-transfer-ogrenme-final-odevi
 
+Turkish: https://www.kaggle.com/code/aminaslam/vgg16-modeli-transfer-ogrenme-final-odevi
